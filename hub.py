@@ -1,3 +1,8 @@
 a=10
 b=20
-print(a+b)
+c=a+b
+
+if c >= 30:
+  print("true")
+else:
+  print("false")
